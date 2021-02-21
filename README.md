@@ -1,7 +1,6 @@
 # Markowitz-Efficient-Frontier
 A python program to output the 'efficient frontier' of investment choices. Inspired by Markowitz's work on Modern Portfolio Theory.
 
-# Text-Similarity
 ## Table of contents
 * [Disclaimer](#disclaimer)
 * [General info](#general-info)
