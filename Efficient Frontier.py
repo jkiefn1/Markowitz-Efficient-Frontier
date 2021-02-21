@@ -29,17 +29,14 @@ if Acknowledgement.lower() == 'no':
     print('You did not ackwowledge this program was done by a non-finance professional and an amatuer, and therefore you will not be allowed to run the program.')
 elif Acknowledgement.lower() == 'yes':
 
-    import os
-    import math
     import pandas as pd
     import numpy as np
     import datetime as dt
-    import matplotlib
-    import matplotlib.pyplot as plt
     from pandas_datareader import data as pdr
     import yfinance as yf
     import random
     from pandas.plotting import register_matplotlib_converters
+    import plotly
     import plotly.express as px
     import plotly.graph_objects as go
 
