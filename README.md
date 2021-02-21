@@ -8,7 +8,7 @@ A python program to output the 'efficient frontier' of investment choices. Inspi
 * [Setup](#setup)
 
 ## Disclaimer
-I am not a financial professional, and have never claimed to be. This prgoram is meant to be illustrative only, and I **DO NOT** guarantee that this code is flawless or accurate, especially as it pertains to investment guidance. Please use this code at your own discretion, as I will not guarantee any accuracy or precision.
+I am not a financial professional, and have never claimed to be. This prgoram is meant to be illustrative only, and I **DO NOT** guarantee that this code is flawless or accurate, especially as it pertains to investment guidance. Please use this code at your own discretion, **as I will not guarantee any accuracy or precision**.
 
 To be able to run the code, you must acknowledge the above by entering passing 'yes' to the acknowledgement variable.
 
